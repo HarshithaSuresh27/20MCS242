@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner View</string>
+    <string-array name="branches">
+        <item>ComputerScience</item>
+        <item>Information Science</item>
+        <item>Machine Learning</item>
+        <item>Electronics</item>
+        <item>Electricals</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+
+    </string-array>
+
+
+
+</resources>
